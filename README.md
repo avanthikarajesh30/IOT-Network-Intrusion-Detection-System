@@ -1,0 +1,2 @@
+For loT implementation, data analytics, cloud computing and network security are the key enabling technologies. Several companies offer cloud services in India, reducing the cost of smart solutions for smart cities. therefore, data security is a very challenging task in loT.
+Because the scope of IoT is so much, the devices will be at a higher risk for intrusion. Hence, our project will be useful to find the intrusions and vulnerabilities in smart systems.
